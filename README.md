@@ -53,7 +53,7 @@ Le tableau de bord comprend quatre analyses principales :
 
 ## 🖥️ Aperçu du dashboard
 
-![Dashboard GTA Online](Dashboard 2026-10-23.png)
+![Dashboard GTA Online](Dashboard%202026-10-23.png)
 
 ## 📚 Source
 
